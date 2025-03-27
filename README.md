@@ -1,6 +1,6 @@
-<img align="center" alt="Development" height="400" width="100%" src="https://github.com/user-attachments/assets/c958c07b-c32d-48e7-8340-f1250ccd2a90">
+
 <h1 align="center">Hi 👋, I'm Harshavardhan Kakarla</h1>
-<h3 align="center">A passionate MERN Stack Developer and Android Developer from India</h3>
+<h3 align="center">A passionate MERN Stack Developer and Machine Learning enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/696d8f34-ec6d-4ae6-80c5-eeb65eeb7ae7">
 
 
