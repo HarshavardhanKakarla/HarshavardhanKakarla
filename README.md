@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/696d8f34-ec6d-4ae6-80c5-eeb65eeb7ae7">
 
 
-- 🌱 I’m currently learning ****App Development(React Native)****
+- 🌱 I’m currently learning and working on ***MachineLearning***, ***Computer Vision*** and ****App Development(React Native)**** 
 
 - 👯 I’m looking to collaborate on **Mern Projects**
 
